@@ -1,0 +1,13 @@
+* Viewing a diff between two files helped spotting bugs easily
+* In the long term, having easy access to the entire history of 
+a file I make can make me a more efficient programmer by helping
+me identify my most common causes of issues
+* VCS stands for Version Controol Systems
+* With manual commits one takes the risk of forgetting to save
+changes
+* VCS like Git treat files jointly since coding projects are usually
+comprised of several, inter-related files of code
+* git log and git diff can be used to find differences between different
+commited files
+* Using version control can make me more confident by allowing me to reverse
+to previous versions of my code
