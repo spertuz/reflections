@@ -1,0 +1,12 @@
+Q: What happens when you initialize a repository?
+A: A .git directory is created
+
+Q: Why do you need to do it?
+A: In order to add the metadata necessary for further tracking my repository
+
+Q: How is the stagint area different from the working directory and the
+repository? What value do you think it offers?
+A: The stading area only includes those files that I explicitly added. This
+is usefull when I have files in my working directory that I don't want to 
+track
+
