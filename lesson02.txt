@@ -10,3 +10,10 @@ A: The stading area only includes those files that I explicitly added. This
 is usefull when I have files in my working directory that I don't want to 
 track
 
+Q: How can you use the staging area to make sure you have one commit per logical 
+change?
+A: I should only include those files that are relevant to the change I made
+
+Q: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+A: Branches are helpfull when you have different working versions of your code
+
